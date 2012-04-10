@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=rpgtest
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/rpgtest
+CND_ARTIFACT_NAME_Debug=consolerpg
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/consolerpg
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=rpgtest.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/rpgtest.tar
+CND_PACKAGE_NAME_Debug=consolerpg.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/consolerpg.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=rpgtest
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/rpgtest
+CND_ARTIFACT_NAME_Release=consolerpg
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/consolerpg
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=rpgtest.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/rpgtest.tar
+CND_PACKAGE_NAME_Release=consolerpg.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/consolerpg.tar
 #
 # include compiler specific variables
 #

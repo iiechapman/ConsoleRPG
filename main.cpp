@@ -27,7 +27,9 @@ int main(int argc, char** argv) {
     newRange.low = 10;
     
     
-    cout << random(newRange);
+    cout << random(newRange) << endl;
+    
+    cout << "This is another test" << endl;
    
     
     
