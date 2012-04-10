@@ -30,6 +30,7 @@ int main(int argc, char** argv) {
     cout << random(newRange) << endl;
     
     cout << "This is another test" << endl;
+    cout << "Is this a revision?" << endl;
    
     
     
